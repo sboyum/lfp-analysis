@@ -2,7 +2,7 @@
 ## Project Summary
 The aim of this project, which was completed as a capstone for Brown University's Master's Program in Data Science, is to better understand the dynamics of eye movements and fixations through analysis of neural data. In addition to granular data exploration, LSTM and GRU models were built to model LFP dynamics, decode types of eye fixations, and predict the occurrence of neural spikes. The full report can be found in **Capstone_Paper.pdf**.
 ## Data
-The folder **data** contains the .csv files that were used to produce the results described in the report.
+The **data** folder contains the .csv files that were used to produce the results described in the report.
 ### Data Files
 * **lfp.csv** contains LFP voltage data used to model LFP dynamics. This is referred to as **C1** in the full report.
 * **lfp_mirror_saccade.csv** contains LFP voltage data used to decode types of eye fixations. This is referred to as **C2** in the full report.
